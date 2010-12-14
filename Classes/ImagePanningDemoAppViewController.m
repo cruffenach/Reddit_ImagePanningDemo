@@ -36,6 +36,30 @@
 	UIImageView *imageview = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"BigPicture.png"]];
 	[self.scrollview addSubview:imageview];
 	[self.scrollview setContentSize:imageview.frame.size];
+	
+	UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	[button setTitle:@"Top Left" forState:UIControlStateNormal];
+	[button addTarget:self action:@selector(topLeft) forControlEvents:UIControlEventTouchUpInside];
+	[button setFrame:CGRectMake(0, 0, 120, 30)];
+	[self.view addSubview:button];
+	
+	button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	[button setTitle:@"Top Right" forState:UIControlStateNormal];
+	[button addTarget:self action:@selector(topRight) forControlEvents:UIControlEventTouchUpInside];
+	[button setFrame:CGRectMake(200, 0, 120, 30)];
+	[self.view addSubview:button];
+	
+	button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	[button setTitle:@"Bottom Left" forState:UIControlStateNormal];
+	[button addTarget:self action:@selector(bottomLeft) forControlEvents:UIControlEventTouchUpInside];
+	[button setFrame:CGRectMake(0, 430, 120, 30)];
+	[self.view addSubview:button];
+	
+	button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
+	[button setTitle:@"Bottom Right" forState:UIControlStateNormal];
+	[button addTarget:self action:@selector(bottomRight) forControlEvents:UIControlEventTouchUpInside];
+	[button setFrame:CGRectMake(200, 430, 120, 30)];
+	[self.view addSubview:button];
 }
 
 -(IBAction)topLeft {
