@@ -1,0 +1,275 @@
+TImagePanningDemoApp
+v7
+r0
+t313981077.173085
+cCheck dependencies
+cProcessInfoPlistFile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/Info.plist ImagePanningDemoApp-Info.plist
+cCompileXIB /Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib
+cCompileXIB /Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib
+cCpResource build/Debug-iphonesimulator/ImagePanningDemoApp.app/BigPicture.png BigPicture.png
+cProcessPCH /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch.gch ImagePanningDemoApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/main.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppAppDelegate.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppViewController.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp normal i386
+cGenerateDSYMFile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp
+cTouch /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/BigPicture.png
+c000000004D06BC3D000000000022A44E
+t1292287037
+s2270286
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.h
+c000000004D06BBBD000000000000022B
+t1292286909
+s555
+i<UIKit/UIKit.h>
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m
+c000000004D06BBBD0000000000000AD5
+t1292286909
+s2773
+i"ImagePanningDemoAppAppDelegate.h"
+i"ImagePanningDemoAppViewController.h"
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.h
+c000000004D06C01400000000000001E2
+t1292288020
+s482
+i<UIKit/UIKit.h>
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m
+c000000004D06C0F400000000000009B6
+t1292288244
+s2486
+i"ImagePanningDemoAppViewController.h"
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib
+c000000004D06C1130000000000006D88
+t1292288275
+s28040
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoApp_Prefix.pch
+c000000004D06BBBD00000000000000CF
+t1292286909
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib
+c000000004D06BBBD0000000000004EB9
+t1292286909
+s20153
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app
+t1292288277
+s272
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM
+t1292288245
+s102
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/BigPicture.png
+t1292287077
+s2270286
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp
+t1292288245
+s19536
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoAppViewController.nib
+t1292288277
+s2272
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/Info.plist
+t1292287077
+s645
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/MainWindow.nib
+t1292287078
+s1147
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/PkgInfo
+t1292287077
+s8
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoApp.LinkFileList
+c000000004D06BC650000000000000211
+t1292287077
+s529
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppAppDelegate.o
+t1292288139
+s51712
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppViewController.o
+t1292288245
+s46220
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/main.o
+t1292287078
+s6352
+
+N/Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m
+c000000004D06BBBD0000000000000179
+t1292286909
+s377
+i<UIKit/UIKit.h>
+
+N/var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch.gch
+t1292287078
+s15453392
+
+NImagePanningDemoApp-Info.plist
+c000000004D06BBBD000000000000038D
+t1292286909
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313981076#313981076#0(0"0(0#1#0"8694433440#0"0#
+
+CCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppAppDelegate.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313980939.215322
+e313980939.348854
+r1
+xCompileC
+xbuild/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppAppDelegate.o
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m313980939#313980939#0(0"0(0#0#91"/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m8690276960#2370"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-generated-files.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-own-target-headers.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-all-target-headers.hmap -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-project-headers.hmap -F/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/include -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources/i386 -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources -include /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch -c /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppAppDelegate.m -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppAppDelegate.o0#
+
+CCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppViewController.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313981045.103386
+e313981045.252577
+r1
+xCompileC
+xbuild/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppViewController.o
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m313981045#313981045#0(0"0(0#0#94"/Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m8692538112#2376"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-generated-files.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-own-target-headers.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-all-target-headers.hmap -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-project-headers.hmap -F/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/include -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources/i386 -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources -include /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch -c /Users/collinruffenach/Desktop/ImagePanningDemoApp/Classes/ImagePanningDemoAppViewController.m -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoAppViewController.o0#
+
+CCompileC build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/main.o /Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313979878.926762
+e313979878.992043
+r1
+xCompileC
+xbuild/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/main.o
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m313979878#313979878#0(0"0(0#0#57"/Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m8676513568#2310"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-generated-files.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-own-target-headers.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-all-target-headers.hmap -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-project-headers.hmap -F/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/include -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources/i386 -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources -include /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch -c /Users/collinruffenach/Desktop/ImagePanningDemoApp/main.m -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib
+s313981076.325465
+e313981077.169883
+r1
+xCompileXIB
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib
+lSLF07#2@48"CompileXIB ImagePanningDemoAppViewController.xib313981076#313981077#0(0"0(0#0#88"/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib8669363552#688"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoAppViewController.nib /Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoAppViewController.xib --sdk /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib
+s313979877.254687
+e313979878.038739
+r1
+xCompileXIB
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313979877#313979878#0(0"0(0#0#65"/Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib8665106496#642"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/MainWindow.nib /Users/collinruffenach/Desktop/ImagePanningDemoApp/MainWindow.xib --sdk /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ImagePanningDemoApp.app/BigPicture.png BigPicture.png
+s313979877.261011
+e313979877.553302
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImagePanningDemoApp.app/BigPicture.png
+xBigPicture.png
+lSLF07#2@19"Copy BigPicture.png313979877#313979877#0(0"0(0#0#65"/Users/collinruffenach/Desktop/ImagePanningDemoApp/BigPicture.png8694578400#538"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/collinruffenach/Desktop/ImagePanningDemoApp/BigPicture.png /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app0#
+
+CGenerateDSYMFile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp
+s313981045.322208
+e313981045.389315
+r1
+xGenerateDSYMFile
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp313981045#313981045#0(0"0(0#0#122"/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp8692299520#473"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/usr/bin/dsymutil /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app.dSYM0#
+
+CLd /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp normal i386
+s313981045.252667
+e313981045.322094
+r1
+xLd
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp
+xnormal
+xi386
+lSLF07#2@127"Link /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp313981045#313981045#0(0"0(0#0#0"8689735584#1044"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -F/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -filelist /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/Objects-normal/i386/ImagePanningDemoApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/ImagePanningDemoApp0#
+
+CProcessInfoPlistFile /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/Info.plist ImagePanningDemoApp-Info.plist
+s313979877.250077
+e313979877.254599
+r1
+xProcessInfoPlistFile
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/Info.plist
+xImagePanningDemoApp-Info.plist
+lSLF07#2@38"Process ImagePanningDemoApp-Info.plist313979877#313979877#0(0"0(0#0#81"/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoApp-Info.plist8691060288#563"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ImagePanningDemoApp-Info.plist -genpkginfo /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app/Info.plist0#
+
+CProcessPCH /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch.gch ImagePanningDemoApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313979878.039056
+e313979878.926477
+r1
+xProcessPCH
+x/var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch.gch
+xImagePanningDemoApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile ImagePanningDemoApp_Prefix.pch313979878#313979878#0(0"0(0#0#81"/Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoApp_Prefix.pch8688863104#2178"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-generated-files.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-own-target-headers.hmap -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-all-target-headers.hmap -iquote /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/ImagePanningDemoApp-project-headers.hmap -F/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/include -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources/i386 -I/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/ImagePanningDemoApp.build/Debug-iphonesimulator/ImagePanningDemoApp.build/DerivedSources -c /Users/collinruffenach/Desktop/ImagePanningDemoApp/ImagePanningDemoApp_Prefix.pch -o /var/folders/Jz/JzteLYSsHmCAjKk8jio2vU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImagePanningDemoApp_Prefix-bwrrhsmeqnavalfbqfuduqabqanp/ImagePanningDemoApp_Prefix.pch.gch0#
+
+CTouch /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app
+s313981077.170654
+e313981077.173049
+r1
+xTouch
+x/Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app
+lSLF07#2@108"Touch /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app313981077#313981077#0(0"0(0#0#0"8695145696#326"    cd /Users/collinruffenach/Desktop/ImagePanningDemoApp    setenv PATH "/Developer-42-GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-42-GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/collinruffenach/Desktop/ImagePanningDemoApp/build/Debug-iphonesimulator/ImagePanningDemoApp.app0#
+

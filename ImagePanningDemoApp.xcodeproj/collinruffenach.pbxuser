@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ImagePanningDemoAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1647, 864}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 555}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ImagePanningDemoAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2753.5, 1826}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1289}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ImagePanningDemoApp */ = {
+		activeExec = 0;
+		executables = (
+			E209138C12B6F33D003B422D /* ImagePanningDemoApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ImagePanningDemoAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1647, 841}}";
+			sepNavSelRange = "{482, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ImagePanningDemoAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1947.76, 1892}}";
+			sepNavSelRange = "{752, 23}";
+			sepNavVisRange = "{639, 1285}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E209138C12B6F33D003B422D /* ImagePanningDemoApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ImagePanningDemoApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ImagePanningDemoApp */,
+		);
+		breakpoints = (
+			E20913DC12B6F624003B422D /* ImagePanningDemoAppViewController.m:42 */,
+		);
+		codeSenseManager = E209139D12B6F344003B422D /* Code sense */;
+		executables = (
+			E209138C12B6F33D003B422D /* ImagePanningDemoApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1469,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313979709;
+			PBXWorkspaceStateSaveDate = 313979709;
+		};
+		perUserProjectItems = {
+			E20913EB12B6F80E003B422D /* PBXTextBookmark */ = E20913EB12B6F80E003B422D /* PBXTextBookmark */;
+			E20913EC12B6F80E003B422D /* PBXTextBookmark */ = E20913EC12B6F80E003B422D /* PBXTextBookmark */;
+			E20913ED12B6F80E003B422D /* PBXTextBookmark */ = E20913ED12B6F80E003B422D /* PBXTextBookmark */;
+			E20913EE12B6F80E003B422D /* PBXTextBookmark */ = E20913EE12B6F80E003B422D /* PBXTextBookmark */;
+			E20913F912B6F8AE003B422D /* PBXTextBookmark */ = E20913F912B6F8AE003B422D /* PBXTextBookmark */;
+		};
+		sourceControlManager = E209139C12B6F344003B422D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E209138C12B6F33D003B422D /* ImagePanningDemoApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ImagePanningDemoApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E209139C12B6F344003B422D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E209139D12B6F344003B422D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E20913DC12B6F624003B422D /* ImagePanningDemoAppViewController.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ImagePanningDemoAppViewController.m */;
+		functionName = "-up";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		modificationTime = 313980452.923418;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	E20913EB12B6F80E003B422D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ImagePanningDemoAppAppDelegate.m */;
+		name = "ImagePanningDemoAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1289;
+		vrLoc = 0;
+	};
+	E20913EC12B6F80E003B422D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ImagePanningDemoAppAppDelegate.h */;
+		name = "ImagePanningDemoAppAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	E20913ED12B6F80E003B422D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ImagePanningDemoAppViewController.h */;
+		name = "ImagePanningDemoAppViewController.h: 25";
+		rLen = 0;
+		rLoc = 482;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 0;
+	};
+	E20913EE12B6F80E003B422D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePanningDemoAppViewController.m */;
+		name = "ImagePanningDemoAppViewController.m: 41";
+		rLen = 614;
+		rLoc = 1004;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 727;
+	};
+	E20913F912B6F8AE003B422D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePanningDemoAppViewController.m */;
+		name = "ImagePanningDemoAppViewController.m: 32";
+		rLen = 23;
+		rLoc = 752;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 639;
+	};
+}
